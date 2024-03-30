@@ -1,6 +1,7 @@
 # UCL-2023_24-Analysis
 
 Author: Siddharth Hiriyan
+
 Project Description:
 
 The project aims to analyze the performance of football (soccer) players based on various performance metrics within the context of the UEFA Champions League (UCL). By leveraging data analytics and visualization techniques, the project provides insights into player performance, which can be valuable for coaches, analysts, and sports enthusiasts interested in the premier European club competition.
